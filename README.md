@@ -92,18 +92,14 @@ The automated tests cover the following scenarios:
 1. **User Registration:**
 
    - Register a new user with valid credentials.
-   - Validate error messages for invalid inputs.
 
 2. **User Login:**
 
    - Log in with valid credentials.
-   - Validate error messages for incorrect credentials.
 
 3. **Cart Management:**
 
    - Add items to the cart.
-   - Remove items from the cart.
-   - Validate cart updates.
 
 4. **Checkout Process:**
 
