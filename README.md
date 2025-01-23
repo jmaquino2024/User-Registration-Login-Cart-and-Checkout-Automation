@@ -97,6 +97,8 @@ The automated tests cover the following scenarios:
 
    - Log in with valid credentials.
 
+     Reminder: Please create a new account via manual registration to replace the existing one on the test website in order to avoid the 'email address already exists' issue. Thanks!
+
 3. **Cart Management:**
 
    - Add items to the cart.
