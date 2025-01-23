@@ -102,11 +102,15 @@ The automated tests cover the following scenarios:
 3. **Cart Management:**
 
    - Add items to the cart.
+  
+     Reminder: Once you've followed the registration process, please use the new account for the login as well. Thanks so much!
 
-4. **Checkout Process:**
+5. **Checkout Process:**
 
    - Complete the checkout process.
    - Validate success messages for successful transactions.
+  
+   Reminder: Once you've followed the registration process, please use the new account for the login as well. Thanks so much!
 
 ---
 
