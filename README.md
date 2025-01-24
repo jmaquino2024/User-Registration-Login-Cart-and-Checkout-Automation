@@ -97,20 +97,20 @@ The automated tests cover the following scenarios:
 
    - Log in with valid credentials.
 
-     Reminder: Please manually create a new account on the test website to replace the one set in the code. This will help prevent the 'email address already exists' error when rerunning the automation process. I’ve configured the email generation to be random during account creation. Thanks!
+     Reminder: Please manually create a new account on the test website to replace the one set in the code. This will help prevent the 'email address already exists' error when rerunning the automation process. I've configured the email generation to be random during account creation to ensure continuity. Thank you!
 
 3. **Cart Management:**
 
    - Add items to the cart.
   
-     Reminder: Once you've followed the registration process, please use the new account for the login as well. Thanks!
+     Reminder: After completing the manual registration, please use the manually created account to log in for this test case. Thank you!
 
 5. **Checkout Process:**
 
    - Complete the checkout process.
    - Validate success messages for successful transactions.
   
-   Reminder: Once you've followed the registration process, please use the new account for the login as well. Thanks!
+   Reminder: After completing the manual registration, please use the manually created account to log in for this test case. Thank you!
 
 ---
 
