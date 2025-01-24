@@ -97,7 +97,7 @@ The automated tests cover the following scenarios:
 
    - Log in with valid credentials.
 
-     Reminder: Please create a new account via manual registration to replace the existing one on the test website in order to avoid the 'email address already exists' issue. Thanks!
+     Reminder: Please manually create a new account on the test website to replace the one set in the code. This will help prevent the 'email address already exists' error when rerunning the automation process. I’ve configured the email generation to be random during account creation. Thanks!
 
 3. **Cart Management:**
 
